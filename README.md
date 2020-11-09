@@ -36,4 +36,5 @@
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=rom1-j&show_icons=true&theme=dark&locale=en" alt="rom1-j" /></p>
 
-[![Romain J.'s wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Rom1_J)](https://github.com/Rom1-J)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
