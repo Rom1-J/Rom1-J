@@ -41,7 +41,7 @@
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 255 Contributions in the Year 2020
+> 🏆 256 Contributions in the Year 2020
  > 
 > 📦 334.5 kB Used in Github's Storage 
  > 
@@ -54,22 +54,22 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    21 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.64% 
-🌆 Daytime    93 commits     ████████░░░░░░░░░░░░░░░░░   33.82% 
-🌃 Evening    95 commits     ████████░░░░░░░░░░░░░░░░░   34.55% 
-🌙 Night      66 commits     ██████░░░░░░░░░░░░░░░░░░░   24.0%
+🌞 Morning    21 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.61% 
+🌆 Daytime    93 commits     ████████░░░░░░░░░░░░░░░░░   33.7% 
+🌃 Evening    95 commits     ████████░░░░░░░░░░░░░░░░░   34.42% 
+🌙 Night      67 commits     ██████░░░░░░░░░░░░░░░░░░░   24.28%
 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday       60 commits     █████░░░░░░░░░░░░░░░░░░░░   21.82% 
-Tuesday      48 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.45% 
-Wednesday    64 commits     █████░░░░░░░░░░░░░░░░░░░░   23.27% 
-Thursday     29 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.55% 
-Friday       29 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.55% 
-Saturday     20 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.27% 
-Sunday       25 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.09%
+Monday       60 commits     █████░░░░░░░░░░░░░░░░░░░░   21.74% 
+Tuesday      48 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.39% 
+Wednesday    64 commits     █████░░░░░░░░░░░░░░░░░░░░   23.19% 
+Thursday     29 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.51% 
+Friday       29 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.51% 
+Saturday     20 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.25% 
+Sunday       26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.42%
 
 ```
 
