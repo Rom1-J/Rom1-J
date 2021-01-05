@@ -76,11 +76,12 @@
     </a>
 </p>
 
+<p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rom1-j&show_icons=true&locale=en&layout=compact" alt="rom1-j" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=rom1-j&show_icons=true&theme=dark&locale=en" alt="rom1-j" />
+</p>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rom1-j&show_icons=true&locale=en&layout=compact" alt="rom1-j" /></p>
-
-<p><img src="https://github-readme-stats.vercel.app/api?username=rom1-j&show_icons=true&theme=dark&locale=en" alt="rom1-j" /></p>
-
+<p>
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
@@ -94,27 +95,6 @@
  > 
 > 🔑 5 Private Repositories  
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    20 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.6% 
-🌆 Daytime    88 commits     ████████░░░░░░░░░░░░░░░░░   33.46% 
-🌃 Evening    88 commits     ████████░░░░░░░░░░░░░░░░░   33.46% 
-🌙 Night      67 commits     ██████░░░░░░░░░░░░░░░░░░░   25.48%
-
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday       59 commits     █████░░░░░░░░░░░░░░░░░░░░   22.43% 
-Tuesday      46 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.49% 
-Wednesday    59 commits     █████░░░░░░░░░░░░░░░░░░░░   22.43% 
-Thursday     26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.89% 
-Friday       28 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.65% 
-Saturday     19 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.22% 
-Sunday       26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.89%
-
-```
 
 
 📊 **This Week I Spent My Time On** 
@@ -155,3 +135,4 @@ PHP                      1 repo              █░░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
+</p>
