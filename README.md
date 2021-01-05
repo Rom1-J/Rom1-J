@@ -76,25 +76,22 @@
     </a>
 </p>
 
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rom1-j&show_icons=true&locale=en&layout=compact" alt="rom1-j" />
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=rom1-j&show_icons=true&theme=dark&locale=en" alt="rom1-j" />
-</p>
+![Chart not found](https://github-readme-stats.vercel.app/api?username=rom1-j&show_icons=true&theme=dark&locale=en) 
+![Chart not found](https://github-readme-stats.vercel.app/api/top-langs?username=rom1-j&show_icons=true&locale=en&layout=compact) 
 
-<p>
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
 > 🏆 0 Contributions in the Year 2021
- > 
+> 
 > 📦 334.5 kB Used in Github's Storage 
- > 
+> 
 > 🚫 Not Opted to Hire
- > 
+> 
 > 📜 16 Public Repositories 
- > 
+> 
 > 🔑 5 Private Repositories  
- > 
+> 
 
 
 📊 **This Week I Spent My Time On** 
@@ -135,4 +132,3 @@ PHP                      1 repo              █░░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
-</p>
