@@ -82,13 +82,13 @@
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 5 Contributions in the Year 2021
+> 🏆 7 Contributions in the Year 2021
  > 
 > 📦 334.5 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 16 Public Repositories 
+> 📜 17 Public Repositories 
  > 
 > 🔑 5 Private Repositories  
  > 
@@ -98,17 +98,17 @@
 ⌚︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Python                   6 hrs 14 mins       ██████████████████░░░░░░░   73.43% 
-XML                      1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.16% 
-HTML                     38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.52% 
-Text                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.57% 
-Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.93%
+Python                   5 hrs 31 mins       ███████████████████░░░░░░   76.48% 
+XML                      1 hr 8 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.74% 
+Git Config               11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.76% 
+Text                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.75% 
+TOML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.68%
 
 🔥 Editors: 
-PyCharm                  8 hrs 30 mins       █████████████████████████   100.0%
+PyCharm                  7 hrs 13 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    8 hrs 30 mins       █████████████████████████   100.0%
+Linux                    7 hrs 13 mins       █████████████████████████   100.0%
 
 ```
 
