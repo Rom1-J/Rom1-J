@@ -60,8 +60,6 @@ jobs:
           plugin_lines_repositories_limit: 4
           plugin_lines_sections: base
           
-          plugin_projects: yes
-          plugin_projects_limit: 4
           plugin_traffic: yes
           
           plugin_wakatime: yes
